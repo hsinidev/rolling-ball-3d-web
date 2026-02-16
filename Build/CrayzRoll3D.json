@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CrazyRoll3D",
+"dataUrl": "CrayzRoll3D.data.unityweb",
+"wasmCodeUrl": "CrayzRoll3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "CrayzRoll3D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CrayzRoll3D.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
